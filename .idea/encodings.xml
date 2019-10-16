@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Admins.dot" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Products.dot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Msg.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Msg_be_BY.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Msg_en_GB.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Msg_ru_RU.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/Admin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/AppLocale.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/Deal.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/Order.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
